@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Rizwan Munir Shaikh</h1>
 <h3 align="center">A passionate Engineering Manager building teams and products</h3>
 
